@@ -1,0 +1,10 @@
+XIN chao cac ban minh la PHAN thanh 
+Thang
+
+0 1 0 0 1 0 1
+1 0 1 1 0 0 0
+0 1 0 0 0 0 0
+0 1 0 0 0 0 0
+1 0 0 0 0 1 0
+0 0 0 0 1 0 0
+1 0 0 0 0 0 0
